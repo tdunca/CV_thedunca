@@ -1,0 +1,285 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: lightgray;
+	font-family: 'Quicksand', sans-serif;
+	margin-left: 19vw;
+	width: 62vw;
+	height: 90vh;
+}
+
+/*HEADER*/
+
+/*HEADER-BUTTON*/
+
+.btn-header {
+	background-color: transparent;
+	border: transparent;
+	font-family: inherit;
+	font-size: 22px;
+	font-weight: 1000;
+	display: flex;
+	justify-content: center;
+	margin-top: 6vh;
+	margin-left: 1vw;
+	width: 5vw;
+	height: 2vw;
+}
+
+
+/*BUTTON-THEME*/
+.dark-theme {
+	background-color: #333;
+	color: #fff;
+}
+
+.dark-theme-btn {
+	color: #fff;
+}
+.dark-theme-btn:hover {
+	color: black;
+}
+
+.dark-theme a {
+	background-color: #333;
+	color: #fff;
+}
+.dark-theme a:hover {
+	color: black;
+}
+
+.dark-theme li a {
+	background-color: #333;
+	color: #fff;
+}
+.dark-theme li a:hover {
+	color: black;
+}
+
+---
+
+.light-theme {
+	/* Light theme styles */
+	background-color: lightgray;
+	color: #333;
+}
+
+.light-theme-btn {
+	color: #333;
+}
+.light-theme-btn:hover {
+	color: #fff;
+}
+
+.light-theme a {
+	/* Light theme styles */
+	background-color: lightgray;
+	color: #333;
+}
+.light-theme a:hover {
+	/* Dark theme styles */
+	color: #fff;
+}
+
+.light-theme li a {
+	/* Light theme styles */
+	background-color: lightgray;
+	color: #333;
+}
+.light-theme li a:hover {
+	/* Dark theme styles */
+	color: #fff;
+}
+
+/*NAV*/
+.nav {
+	background-color: transparent;
+	margin-top: 3vh;
+	display: flex;
+	align-content: center;
+	justify-content: flex-end;
+}
+.nav li {
+	list-style-type: none;
+}
+
+.nav li a {
+
+	font-weight: 600;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 20px;
+	/* transition-duration: 0.4s; */
+}
+
+
+
+/*VIEWS*/
+
+/*HOME-PAGE*/
+.home-page {
+	font-size: 45px;
+	font-weight: 100;
+	/* text-align: right; */
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	padding-top: 16vh;
+}
+
+/*ABOUT-PAGE*/
+.container-side {
+	width: 10vw;
+	text-align: right;
+}
+
+.grid-pic {
+ /*border-radius: 15px;*/
+	border-radius: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 19vw;
+	height: 40vh;
+}
+
+/*PROEJCTS-PAGE*/
+.projects-page {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+/*CAROUSEL*/
+.carousel-root {
+	margin-top: 14vh;
+}
+li.slide div {
+	background-color: transparent;
+}
+.carousel .slide img {
+	height: 40vh;
+	width: 80%;
+}
+.thumbs-wrapper {
+	display: none;
+}
+.carousel .control-dots {
+	padding: 2rem;
+}
+.item {
+	font-size: 15px;
+	font-weight: 700;
+	margin-top: 3rem ;
+}
+.carousel-link {
+	text-decoration: none;
+}
+.carousel .control-arrow,
+.carousel.carousel-slider .control-arrow {
+	max-height: 367px;
+}
+.carousel-status {
+	display: none;
+}
+.carousel .control-next.control-arrow {
+	right: 120px;
+}
+.carousel .control-prev.control-arrow {
+	left: 120px;
+}
+
+
+/*CONTACT-PAGE*/
+.contact-page {
+	padding-top: 15vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
+
+.contact-text {
+	font-size: 30px;
+	font-weight: 600;
+
+}
+
+/*FORM*/
+.form-form {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	gap: 10px;
+}
+.form-group {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+.form-group label {
+	margin-left: 10px;
+}
+.input-field {
+	font-family: inherit;
+	font-size: 16px;
+	color: black;
+	margin: 10px;
+	width: 30vw;
+	height: 4vh;
+}
+.btn-send {
+	background-color: lightgray;
+	border: 0.5px solid;
+	font-family: inherit;
+	font-size: 20px;
+	font-weight: 800;
+	width: 8vw;
+    height: 3vw;
+	align-self: center;
+	transition-duration: 0.4s;
+}
+.btn-send:hover {
+	color: white;
+}
+
+.form-info {
+	margin-top: 5vh;
+	font-size: 30px;
+	font-weight: 500;
+	text-align: center;
+
+}
+.form-link {
+	margin: 15px;
+}
+.form-logo {
+	margin-top: 5vh;
+	height: 130px;
+	width: 130px;
+}
+
+
+/*FOOTER*/
+.footer {
+	color: black;
+	font-size: small;
+	text-decoration: none;
+	position: absolute;
+	height: 10vh;
+	bottom: 0;
+}
+
+
+.footer a {
+	font-size: 14px;
+	font-weight: 600;
+	justify-content: flex-start;
+	text-decoration: none;
+	padding: 15px;
+}
