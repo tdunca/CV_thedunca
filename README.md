@@ -20,8 +20,8 @@ The requirements were as follows:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/thedunca-cv.git`
-2. Change into the project directory: `cd thedunca-cv`
+1. Clone the repository: `git clone https://github.com/your-username/cv_thedunca.git`
+2. Change into the project directory: `cd cv_thedunca`
 3. Install dependencies: `npm install`
 
 ### Usage
