@@ -18,12 +18,6 @@ The requirements were as follows:
 - Comment your code where necessary.
 - Include a README-file that describes the project, how to run it and an overwiew of the functions.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/cv_thedunca.git`
-2. Change into the project directory: `cd cv_thedunca`
-3. Install dependencies: `npm install`
-
 ### Usage
 
 To run the application locally:
