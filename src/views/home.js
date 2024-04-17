@@ -7,8 +7,8 @@ class Home extends Component {
         <p>
           Theresa Dunca is currently attending education for
           FrontEnd-Development, estimated graduation in 2025. Previously spent
-          mutliple years in the restaurant industry, distribution and
-          management. Now diving into the adventures that FrontEnd-Developing
+          mutliple years in the management, distribution and the restaurant
+          industry. Now diving into the adventures that FrontEnd-Developing
           brings. Join me on my journey to become the very best.
         </p>
       </div>
