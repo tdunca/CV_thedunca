@@ -3,7 +3,7 @@
 This repository contains the source code for my CV website.
 The website is built using React, Redux and various styling techniques.
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing.
-Note: Links and projects presented are not personalised.
+Note: Email-link and projects presented are not personalised.
 
 ### Requirements:
 
