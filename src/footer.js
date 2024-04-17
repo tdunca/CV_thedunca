@@ -8,7 +8,7 @@ const Footer = ({ darkMode }) => {
       <a href="https://www.linkedin.com/in/theresa-dunca-4337a02a0/">
         Linkedin
       </a>
-      <a href="https://github.com/">Github</a>
+      <a href="https://github.com/tdunca">Github</a>
     </div>
   );
 };
