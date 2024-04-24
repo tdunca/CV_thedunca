@@ -5,6 +5,9 @@ The website is built using React, Redux and various styling techniques.<br />
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing.<br />
 Note: Email-link and the Contact form are not functional.
 
+![Screenshot_2](https://github.com/tdunca/CV_thedunca/assets/146927903/f0c535b9-a0e4-48e2-bf71-8b5b60b4f4eb)
+
+
 ### Requirements:
 
 The requirements were as follows:
