@@ -10,12 +10,13 @@ const Grid = () => {
 			<h3>SKILLS</h3>
             <br />
                 <h4>CODE</h4>
-                    <p>HTML</p>
+                    <p>HTML 5</p>
                     <p>CSS</p>
 					<p>JavaScript</p>
                     <p>React</p>
 					<p>Redux</p>
-                    <p>JSX</p>
+                    <p>TypeScript</p>
+					<p>Node.js</p>
 			<br/>
                  <h4>TOOLBOX</h4>
 				    <p>Adobe Photoshop</p>
@@ -47,23 +48,23 @@ const Grid = () => {
         <div key="three" data-grid={{ x: 2, y: 2, w: 4, h: 10 }}>
             <h3>WORK EXPERIENCE</h3>
             <br />
-                <h5 className="side">AVDELNINGSCHEF l SVENSK HEMLEVERANS </h5>
-                    <p className="abouttext">Heltidsarbete l Jan 2021 - July 2023 l Uppsala</p>
+                <h5 className="side">DEPARTMENT HEAD l SVENSK HEMLEVERANS </h5>
+                    <p className="abouttext">Full Time-Employment l Jan 2021 - July 2023 l Uppsala</p>
             <br />
-                <h5 className="side">TRAFIKLEDARE l UPPSALA TAXI </h5>
-                    <p className="abouttext">Heltidsarbete l May 2019 - Dec 2020 l Uppsala</p>
+                <h5 className="side">TRAFFIC CONTROLLER l UPPSALA TAXI </h5>
+                    <p className="abouttext">Full Time-Employment l May 2019 - Dec 2020 l Uppsala</p>
             <br />
                 <h5 className="side">RESTAURANGCHEF l KITCHEN AND TABLE, NORDIC CHOICE</h5>
-                    <p className="abouttext">Heltidsarbete l April 2017 - May 2019 l Arlanda Airport</p>
+                    <p className="abouttext">Full Time-Employment l April 2017 - May 2019 l Arlanda Airport</p>
             <br />
                 <h5 className="side">RECEPTIONS/BEMANNINGSANSVARIG l HOTELL CENTRALSTATION</h5>
-                    <p className="abouttext">Heltidsarbete l Jan 2016 - April 2017 l Uppsala</p>
+                    <p className="abouttext">Full Time-Employment l Jan 2016 - April 2017 l Uppsala</p>
             <br />
                 <h5 className="side">TEAMLEADER/BARCHEF l SCANINAVIAN SERVICE PARTNER</h5>
-                    <p className="abouttext">Heltidsarbete l May 2014 - Jan 2016 l Arlanda Airport</p>
+                    <p className="abouttext">Full Time-Employment l May 2014 - Jan 2016 l Arlanda Airport</p>
             <br />
                 <h5 className="side">BARTENDER/CROUPIER l Stöten Ski Resort</h5>
-                    <p className="abouttext">Säsongsarbete l Dec 2013 - April 2014</p>
+                    <p className="abouttext">Seasonal employment l Dec 2013 - April 2014</p>
             <br />
           </div>
 		  <div key="four" data-grid={{ x: 8, y: 2, w: 4, h: 1 }}>

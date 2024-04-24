@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 const Footer = ({ darkMode }) => {
   return (
     <div className={"footer " + (darkMode ? "dark-theme" : "light-theme")}>
-      <a href="https://www.svt.se/">dunca.theresa@gmail.com</a>
+      <a href="https://www.gmail.com/">dunca.theresa@gmail.com</a>
       <a href="https://www.linkedin.com/in/theresa-dunca-4337a02a0/">
         Linkedin
       </a>
