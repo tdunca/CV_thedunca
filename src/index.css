@@ -113,7 +113,6 @@ body {
 	font-size: 12px;
 	text-decoration: none;
 	padding: 20px;
-	/* transition-duration: 0.4s; */
 }
 
 
@@ -124,27 +123,35 @@ body {
 .home-page {
 	font-size: 45px;
 	font-weight: 100;
-	/* text-align: right; */
 	display: flex;
 	align-content: center;
 	justify-content: center;
-	padding-top: 16vh;
+	padding-top: 17vh;
 }
 
 /*ABOUT-PAGE*/
 .container-side {
-	width: 10vw;
+	width: 12rem;
 	text-align: right;
 }
 
+@media screen and (min-width: 2300px) {
+.layout {
+	margin-left: 10rem;
+	margin-top: 8rem;}
+
+}
+
+
+
 .grid-pic {
- /*border-radius: 15px;*/
 	border-radius: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 19vw;
-	height: 40vh;
+	width: 21rem;
+	height: 21rem;
+	object-fit: cover;
 }
 
 /*PROEJCTS-PAGE*/

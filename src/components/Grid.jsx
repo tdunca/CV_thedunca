@@ -4,7 +4,7 @@ import profilePicture from "../images/profile-picture.jpg"
 
 const Grid = () => {
 	return (
-	<GridLayout className="layout" cols={10} rowHeight={25} width={1300}>
+	<GridLayout className="layout" cols={10} rowHeight={25} width={1300} isDraggable={false}>
 		<div key="one" data-grid={{ x: 0, y: 2, w: 5, h: 0, static: true }}>
             <div className="container-side">
 			<h3>SKILLS</h3>
