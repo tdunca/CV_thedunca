@@ -72,8 +72,8 @@ const Form = () => {
           <p>Thank you for contacting me.</p>
           <p>Feel free to check out my social media:</p>
 		  <a className="form-link" href="https://www.instagram.com/"><img className="form-logo" src={instagramlogo} alt="instagram"/></a>
-		  <a className="form-link" href="https://github.com/"><img className="form-logo" src={githublogo} alt="github"/></a>
-		  <a className="form-link" href="https://www.linkedin.com/"><img className="form-logo" src={linkedinlogo} alt="linkedin"/></a>
+		  <a className="form-link" href="https://github.com/tdunca"><img className="form-logo" src={githublogo} alt="github"/></a>
+		  <a className="form-link" href="https://www.linkedin.com/in/theresa-dunca-4337a02a0/"><img className="form-logo" src={linkedinlogo} alt="linkedin"/></a>
         </div>
       )}
     </>
