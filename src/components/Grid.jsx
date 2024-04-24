@@ -14,14 +14,14 @@ const Grid = () => {
                     <p>CSS</p>
 					<p>JavaScript</p>
                     <p>React</p>
-					<p>Redux</p>
                     <p>TypeScript</p>
 					<p>Node.js</p>
 			<br/>
                  <h4>TOOLBOX</h4>
-				    <p>Adobe Photoshop</p>
+				    <p>Adobe</p>
 					<p>GIMP</p>
                     <p>Figma</p>
+					<p>Tello</p>
                     <p>Canva</p>
 			<br/>
                 <h4>EDUCATION</h4>
