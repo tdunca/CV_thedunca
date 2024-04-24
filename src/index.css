@@ -129,6 +129,13 @@ body {
 	padding-top: 17vh;
 }
 
+@media screen and (min-width: 2300px) {
+	.home-page {
+		margin-top: 8rem;
+	}
+
+}
+
 /*ABOUT-PAGE*/
 .container-side {
 	width: 12rem;
