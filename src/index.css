@@ -156,13 +156,13 @@ body {
 
 /*CAROUSEL*/
 .carousel-root {
-	margin-top: 14vh;
+	margin-top: 10vh;
 }
 li.slide div {
 	background-color: transparent;
 }
 .carousel .slide img {
-	height: 40vh;
+	height: 50vh;
 	width: 80%;
 }
 .thumbs-wrapper {
@@ -181,16 +181,16 @@ li.slide div {
 }
 .carousel .control-arrow,
 .carousel.carousel-slider .control-arrow {
-	max-height: 367px;
+	max-height: 50vh;
 }
 .carousel-status {
 	display: none;
 }
 .carousel .control-next.control-arrow {
-	right: 120px;
+	right: 12.5vh;
 }
 .carousel .control-prev.control-arrow {
-	left: 120px;
+	left: 12.5vh;
 }
 
 
