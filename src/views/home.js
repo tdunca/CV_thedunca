@@ -9,7 +9,7 @@ class Home extends Component {
           FrontEnd-Development, estimated graduation in 2025. Previously spent
           mutliple years in the management, distribution and the restaurant
           industry. Now diving into the adventures that FrontEnd-Developing
-          brings. Join me on my journey to become my very best.
+          brings.
         </p>
       </div>
     );
