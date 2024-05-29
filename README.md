@@ -3,7 +3,7 @@
 This repository contains the source code for my CV website.<br />
 The website is built using React, Redux and various styling techniques.<br />
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing.<br />
-Note: Email-link and the Contact form are not functional.
+Note: Made for desktop ONLY. Email-link and the Contact form are not functional.
 
 Deployed with Vercel: https://cv-thedunca.vercel.app/#/
 
