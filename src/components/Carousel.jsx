@@ -18,7 +18,7 @@ const CarouselComponent = () => {
        </div>
       <div>
 	  <img src={projectthree} alt="projecthree"/>
-	  <p className='item'><a className="carousel-link" href="https://www.figma.com/proto/KJdk0n042hfUpsMnwCWIED/UX-Design-Assignment?type=design&node-id=6-31&t=mN8fWmKeb0aJTuUP-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A31&mode=design">U X D E S I G N - A S S I G N M E N T </a></p>
+	  <p className='item'><a className="carousel-link" href="https://www.figma.com/design/KJdk0n042hfUpsMnwCWIED/UX-Design-Assignment?node-id=0-1&t=D3ZOZzrDL3EoM8IA-0">U X D E S I G N - A S S I G N M E N T </a></p>
      </div>
    </Carousel>
   );
