@@ -3,7 +3,7 @@ import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import projectone from "../images/memory.jpg"
 import projecttwo from "../images/backend.jpg"
-import projectthree from "../images/ux-design.jpg"
+import projectthree from "../images/terminalconnect4.jpg"
 
 const CarouselComponent = () => {
   return (
@@ -18,7 +18,7 @@ const CarouselComponent = () => {
        </div>
       <div>
 	  <img src={projectthree} alt="projecthree"/>
-	  <p className='item'><a className="carousel-link" href="https://www.figma.com/design/KJdk0n042hfUpsMnwCWIED/UX-Design-Assignment?node-id=0-1&t=D3ZOZzrDL3EoM8IA-0">U X D E S I G N - A S S I G N M E N T </a></p>
+	  <p className='item'><a className="carousel-link" href="https://github.com/tdunca/Connect-four">I N -T E R M I N A L - C O N N E C T 4 </a></p>
      </div>
    </Carousel>
   );

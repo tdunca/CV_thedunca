@@ -54,13 +54,13 @@ const Grid = () => {
                 <h5 className="side">TRAFFIC CONTROLLER l UPPSALA TAXI </h5>
                     <p className="abouttext">Full Time-Employment l May 2019 - Dec 2020 l Uppsala</p>
             <br />
-                <h5 className="side">RESTAURANGCHEF l KITCHEN AND TABLE, NORDIC CHOICE</h5>
+                <h5 className="side">RESTAURANT MANAGER l KITCHEN AND TABLE, NORDIC CHOICE</h5>
                     <p className="abouttext">Full Time-Employment l April 2017 - May 2019 l Arlanda Airport</p>
             <br />
-                <h5 className="side">RECEPTIONS/BEMANNINGSANSVARIG l HOTELL CENTRALSTATION</h5>
+                <h5 className="side">RECEPTION/STAFFING MANAGER l HOTELL CENTRALSTATION</h5>
                     <p className="abouttext">Full Time-Employment l Jan 2016 - April 2017 l Uppsala</p>
             <br />
-                <h5 className="side">TEAMLEADER/BARCHEF l SCANINAVIAN SERVICE PARTNER</h5>
+                <h5 className="side">TEAMLEADER/BARMANAGER l SCANINAVIAN SERVICE PARTNER</h5>
                     <p className="abouttext">Full Time-Employment l May 2014 - Jan 2016 l Arlanda Airport</p>
             <br />
                 <h5 className="side">BARTENDER/CROUPIER l Stöten Ski Resort</h5>
