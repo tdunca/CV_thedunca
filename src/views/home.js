@@ -5,11 +5,10 @@ class Home extends Component {
     return (
       <div className="home-page">
         <p>
-          Theresa Dunca is currently attending education for
-          FrontEnd-Development, estimated graduation in 2025. Previously spent
-          mutliple years in the management, distribution and the restaurant
-          industry. Now diving into the adventures that FrontEnd-Developing
-          brings.
+          Theresa Dunca is a FrontEnd-Developer, based in Uppsala, Sweden. 
+          Currently studying DevSecOps at KYH-
+          Previously spent mutliple years in management, distribution and 
+          the restaurant industry.
         </p>
       </div>
     );
