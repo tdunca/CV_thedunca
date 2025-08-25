@@ -5,8 +5,6 @@ The website is built using React, Redux and various styling techniques.<br />
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing.<br />
 Note: Made for desktop ONLY. Email-link and the Contact form are not functional.
 
-Deployed with Vercel: https://cv-thedunca.vercel.app/#/
-
 ![Screenshot_1](https://github.com/tdunca/CV_thedunca/assets/146927903/64283812-267a-40e0-924d-ecab6c1db476)
 
 ### Requirements:
